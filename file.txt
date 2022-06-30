@@ -1,4 +1,5 @@
 this is a test for git.
+add an apple.
 insert another line.
 insert new line
 add new content.
